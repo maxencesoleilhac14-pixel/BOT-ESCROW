@@ -16,14 +16,14 @@ from telegram.ext import (
 # ──────────────────────────────────────────────
 #  CONFIG
 # ──────────────────────────────────────────────
-BOT_TOKEN   = "8942358282:AAG51UhEFyfF3xknj0mTEveTLYjs054wLwg"
+BOT_TOKEN   = "8942358282:AAGua3v2MCjlE0uLN130K4AVp0iw8nl7NSs"
 ADMIN_ID    = 8567294409
 FEES_PCT    = 0.10
-OXAPAY_KEY  = "0GIV9Q-UK4W7X-VWK6UI-Y7YDQE"
+OXAPAY_KEY  = "COD3WI-WYMSGY-QUQ4DU-SQWVTU"
 OXAPAY_API  = "https://api.oxapay.com/merchants/request"
 OXAPAY_INQ  = "https://api.oxapay.com/merchants/inquiry"
 PAYPAL_URL  = "https://www.paypal.me/crz843026"
-SERVER_LINK = "https://t.me/+xKS4m2oPM_IyZGE0"
+SERVER_LINK = "https://t.me/+ALtFJrhrEYM5NDRk"
 
 # ──────────────────────────────────────────────
 #  ÉTAT GLOBAL
