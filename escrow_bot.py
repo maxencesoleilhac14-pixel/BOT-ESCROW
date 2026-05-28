@@ -17,7 +17,7 @@ from telegram.ext import (
 #  CONFIG — lit depuis variables d'environnement Railway
 #  ou valeurs par défaut si lancé en local
 # ──────────────────────────────────────────────
-BOT_TOKEN   = os.environ.get("BOT_TOKEN",   "METS_TON_TOKEN_ICI")
+BOT_TOKEN   = os.environ.get("BOT_TOKEN",   "8942358282:AAGj2uEpyrtroLm8h1tAHtfCF3NyEAZ08SU")
 ADMIN_ID    = int(os.environ.get("ADMIN_ID", "8567294409"))
 FEES_PCT    = 0.10
 OXAPAY_KEY  = os.environ.get("OXAPAY_KEY",  "COD3WI-WYMSGY-QUQ4DU-SQWVTU")
